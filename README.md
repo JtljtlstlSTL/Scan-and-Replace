@@ -41,7 +41,7 @@ MediaPipe Face Mesh：
 
 支持实时应用。
 
-官方文档：https://google.github.io/mediapipe/solutions/face_mesh.html
+官方文档：[https://google.github.io/mediapipe/solutions/face_mesh.html](https://github.com/google/mediapipe)
 
 FAN（Face Alignment Network）：
 
